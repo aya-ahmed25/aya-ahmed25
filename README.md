@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aya Ahmed</h1>
 <h3 align="center">Front End Developer</h3>
+<img align="right" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="400px" >
 <p><b> Hello,I'm Aya Ahmed. </b> </p>
-<img align="right" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="300px" >
 <p> <em> I am Studying in the Faculty of Science,Department of Computer Science👩‍💻.</em> </p>
 <p><em> I am interested in the Web Development.</em> </p>
 <p><em> I wish to be Full Stack Web Developer💞.</em> </p>
