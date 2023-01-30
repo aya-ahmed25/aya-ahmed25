@@ -9,10 +9,10 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="right" src="https://visme.co/blog/wp-content/uploads/2020/02/header-1200.gif" width = 200px/>
 
 <br><br>
-<h2>↛ Hello👋,I'm Aya Ahmed</h2> 
+<h2>Hello👋,I'm Aya Ahmed</h2> 
 <p>↛ I am Studying in the Faculty of Science,Department of Computer Science👩‍💻</p>
 <p>↛ I am interested in the Web Development</p>
 <p>↛ I wish to be Full Stack Web Developer💞</p>
