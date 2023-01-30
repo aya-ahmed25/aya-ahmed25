@@ -1,15 +1,33 @@
-<h1 align="center">Hi 👋, I'm Aya Ahmed</h1>
-<h3 align="center">Front End Developer</h3>
-<img align="right" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="400px" >
-<p><b> Hello,I'm Aya Ahmed. </b> </p>
-<p> <em> I am Studying in the Faculty of Science,Department of Computer Science👩‍💻.</em> </p>
-<p><em> I am interested in the Web Development.</em> </p>
-<p><em> I wish to be Full Stack Web Developer💞.</em> </p>
-<p><em> I am currently learning Front End. </em></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayia2_a7med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayia2_a7med" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aya-ahmed8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-ahmed8" height="30" width="40" /></a>
-<a href="https://fb.com/aya.eldagag.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aya.eldagag.58" height="30" width="40" /></a>
-<a href="https://instagram.com/ayia2_a7med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayia2_a7med" height="30" width="40" /></a>
-</p>
+<h1 align="center">Hi , I'm Aya Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Front-End+Developer&center=true&width=500&height=50"></a>
+<!-- </p>
+<br>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=0e75b6&style=plastic" alt="amirbayat0" /> 
+</p> -->
+
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+
+<br><br>
+Hello Everyone 👋, My name is Aya. I'm Computer Science Student👨‍💻
+I’m interested in software engineering and technology. Presently,
+You can follow me on the socials, below 👇.
+
+<br><br>
+
+<p align='center'>
+<a href="https://twitter.com/ayia2_a7med">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/ayia2_a7med/" target="blank">
+  <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
+<a href="mailto:ayia2a7med@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="https://www.linkedin.com/in/aya-ahmed8/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+	<a href="https://web.facebook.com/aya.eldagag.58/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</a>&nbsp;&nbsp;
