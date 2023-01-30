@@ -5,7 +5,7 @@
 <p><em> I am interested in the Web Development.</em> </p>
 <p><em> I wish to be Full Stack Web Developer💞.</em> </p>
 <p><em> I am currently learning Front End. </em></p>
-<img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" >
+<img  style="background-position:right top;" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="40px" hight="30px" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayia2_a7med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayia2_a7med" height="30" width="40" /></a>
