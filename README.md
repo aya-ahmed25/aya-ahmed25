@@ -12,9 +12,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-Hello Everyone 👋, My name is Aya. I'm Computer Science Student👨‍💻
-I’m interested in Web Development. Presently,
-You can follow me on:
+Hello,I'm Aya Ahmed 
+I am Studying in the Faculty of Science,Department of Computer Science
+I am interested in the Web Development
+I wish to be Full Stack Web Developer
+I am currently learning Front End
+please,fellom me on:
 
 <br><br>
 
