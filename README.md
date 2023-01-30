@@ -9,7 +9,7 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<img align="right" src="https://visme.co/blog/wp-content/uploads/2020/02/header-1200.gif" width = 50px/>
+<img align="right" src="https://visme.co/blog/wp-content/uploads/2020/02/header-1200.gif" width ="40px"/>
 
 <br><br>
 <h2>Hello👋,I'm Aya Ahmed</h2> 
