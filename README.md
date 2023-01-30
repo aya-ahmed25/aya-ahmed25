@@ -12,12 +12,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-<h2>Hello,I'm Aya Ahmed</h2> 
-<p>I am Studying in the Faculty of Science,Department of Computer Science</p>
-<p>I am interested in the Web Development</p>
-<p>I wish to be Full Stack Web Developer</p>
-<p>I am currently learning Front End</p>
-<p>please,fellom me on:</p>
+<h2>↛Hello👋,I'm Aya Ahmed</h2> 
+<p>↛I am Studying in the Faculty of Science,Department of Computer Science👩‍💻</p>
+<p>↛I am interested in the Web Development</p>
+<p>↛I wish to be Full Stack Web Developer💞</p>
+<p>↛I am currently learning Front End</p>
+<p>↛please,fellom me on:</p>
 
 <br><br>
 
